@@ -5,12 +5,12 @@
   "main": "./src/js/index.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/Franciscoborges2002/vanilla-js-template.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/Franciscoborges2002/vanilla-js-template/issues"
   },
-  "homeage": ""
+  "homepage": "https://github.com/Franciscoborges2002/vanilla-js-template"
 }

@@ -1,0 +1,16 @@
+{
+  "name": "vanilla-js-template",
+  "version": "1.0.0",
+  "description": "A simple Template to VanillaJS",
+  "main": "./src/js/index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homeage": ""
+}
